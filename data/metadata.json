@@ -1,0 +1,9 @@
+{
+  "generated_at": "2026-11-17T07:39:28.606626+00:00",
+  "repo": "Security-HC/cva6",
+  "workflows": [
+    "ci",
+    "tier1",
+    "tier2"
+  ]
+}
